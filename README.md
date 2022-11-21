@@ -1,4 +1,5 @@
-# Devbhoomi-tourism 
+# Devbhoomi-tourism
+*************************************************************
 _**WELCOME TO DEVBHOOMI UTTARAKHAND**_
 
 ## Visit Atleast once in your life~
@@ -17,5 +18,5 @@ _**WELCOME TO DEVBHOOMI UTTARAKHAND**_
   * YAMUNOTRI
   * GANGOTRI
   ![image](https://user-images.githubusercontent.com/118350829/202988243-465112b0-e2cb-46bb-8d25-95ffd1be270c.png)
-  contact us for devbhoomi tourism:
+  **contact us for devbhoomi tourism:**
       ~9076229768.
